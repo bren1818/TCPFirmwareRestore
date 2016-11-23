@@ -1,0 +1,10 @@
+MD5 | Filename
+
+b32f5c3b6528db3c3eb75a3604532a12 tcpmod_firmware.img
+9e32549d1cbb0d091b45683190e48f89 rootfs_2.0.47.bin
+4c448f9d9a2d8584ab5c0d4c6874af1e rootfs_3.0.39.bin
+a0abd54b4511d33e4f5a2cb7a82d3189 rootfs_3.0.74.bin
+1fd9533baf076765c3dc0f0182bfc646 u-boot.bin
+
+tcpmod_firmware.img created by @hypergolic : https://github.com/hypergolic/greeenwave_firmware
+rootfs_* and u-boot.bin file from exploitee.rs : https://www.exploitee.rs/index.php/Greenwave_Reality_Bulbs
