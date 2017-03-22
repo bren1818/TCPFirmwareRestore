@@ -1,3 +1,7 @@
 https://www.exploitee.rs/index.php/Greenwave_Reality_Bulbs - Hosts firmware files and info re: U-Boot
 https://github.com/hypergolic/greeenwave_firmware - Author of the Python Http Server for Downgrade/Upgrade
 https://github.com/bren1818/TCPLightingWebInterface - My homebrew project
+
+
+Simple DNS Plus : http://simpledns.com/ - for re-routing some traffic download 30 day trial
+Ninite Installer: https://ninite.com/ (grab Python, Notepad++, Putty) from the developer Tools section
