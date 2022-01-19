@@ -1,4 +1,4 @@
-# TCPFirmwareRestore
+# TCPFirmwareRestore (Deprecated)
 Connected By TCP - Greenwave Reality Bridge Firmware - for restoring/re-flashing
 
 This project is based on https://github.com/hypergolic/greeenwave_firmware however I will include a step by step instruction on how to downgrade the firmware for people who have limited understanding of networking or programming or just need a bit of extra help.
